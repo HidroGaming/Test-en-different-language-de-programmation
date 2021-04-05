@@ -1,7 +1,7 @@
 # testpython
 This is a fully open-source repository, you can modify but before ask me.
-#Download
+# Download
 You can only download the source code or the releases i post.
-\n
+
 Have a nice day
 -Hidro
