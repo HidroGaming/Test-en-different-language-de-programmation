@@ -1,1 +1,1 @@
-start https://google.com
+ping hypixel.net
